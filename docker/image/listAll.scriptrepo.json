@@ -8,7 +8,7 @@
   ],
   "arguments": [
     {
-      "name": "name",
+      "name": "v",
       "required": true,
       "repeated": true
     }
