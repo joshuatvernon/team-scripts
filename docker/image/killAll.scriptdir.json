@@ -1,0 +1,16 @@
+{
+  "askForConfirmation": true,
+  "environmentVariables": [
+    {
+      "name": "VERSION",
+      "required": true
+    }
+  ],
+  "arguments": [
+    {
+      "name": "name",
+      "required": true,
+      "repeated": true
+    }
+  ]
+}
